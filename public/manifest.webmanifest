@@ -1,0 +1,17 @@
+{
+  "name": "CURITIBA APROVA — Agente Administrativo 2026",
+  "short_name": "Curitiba Aprova",
+  "description": "Plataforma pessoal de preparação inteligente para o concurso da Prefeitura de Curitiba 2026 (Agente Administrativo - FAFIPA).",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F5F7FA",
+  "theme_color": "#17365D",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
